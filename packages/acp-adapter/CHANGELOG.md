@@ -1,5 +1,17 @@
 # @moonshot-ai/acp-adapter
 
+## 0.3.0
+
+### Minor Changes
+
+- [#744](https://github.com/MoonshotAI/kimi-code/pull/744) [`18f299f`](https://github.com/MoonshotAI/kimi-code/commit/18f299fd0b266545a1f7cebae9f58b83b9d9776e) - Add support for legacy SSE MCP servers alongside stdio and streamable HTTP transports.
+
+### Patch Changes
+
+- Updated dependencies [[`18f299f`](https://github.com/MoonshotAI/kimi-code/commit/18f299fd0b266545a1f7cebae9f58b83b9d9776e)]:
+  - @moonshot-ai/agent-core@0.13.0
+  - @moonshot-ai/kimi-code-sdk@0.9.3
+
 ## 0.2.5
 
 ### Patch Changes
